@@ -1,0 +1,10 @@
+{
+    "name": "@naserahadi/j-table",
+    "version": "0.0.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@naserahadi/j-table-row": "^0.5.0"
+    }
+}
