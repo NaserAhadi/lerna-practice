@@ -1,8 +1,8 @@
 {
-    "name": "@naser-pt/j-table-row",
+    "name": "@naser2-pt/j-table-row",
     "version": "0.2.0",
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "91c86850a851c19697b71b0ab889c3da5e5d63b6"
+    "gitHead": "1bb73edaeebd3676fe0f92d4e1608c58c6a974c4"
 }
